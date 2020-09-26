@@ -1,3 +1,8 @@
+// Given an array A of size N
+//construct a Product Array P (of same size) such that 
+//P is equal to the product of all the elements of A except A[i].
+//Solve without using division operator.
+//Time Complexity: O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
